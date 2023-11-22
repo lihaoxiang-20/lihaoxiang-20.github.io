@@ -1,12 +1,20 @@
 ---
 permalink: /
-title: "Self-Introduction"
+title: "Haoxiang Li"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+## About Me
+
+I am a passionate software developer with a strong interest in artificial intelligence and machine learning. I love exploring new technologies and finding innovative solutions to complex problems.
+
+You can find more information about me on my [personal website](https://example.com).
+
+Feel free to reach out to me if you have any questions or collaboration opportunities! 😊
+
 My name is Haoxiang Li, and I was born on January 12th, 2003. I am currently completing my Bachelor of Engineering in the Department of Biomedical Engineering at Tsinghua University in China. My academic journey has been rigorously rooted in the fields of medical imaging and artificial intelligence, with specific coursework in Medical Image Processing, Medical Imaging Physics, Deep Learning, Pattern Recognition, Machine Learning, and an introduction to AI.
 
 I am proficient in several programming languages and tools, including MATLAB, Python, PyTorch, TensorFlow, Keras, C/C++, Verilog, git, ROS, and MySQL, which have been instrumental in my research projects.
