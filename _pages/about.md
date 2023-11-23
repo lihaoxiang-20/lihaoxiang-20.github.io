@@ -13,12 +13,12 @@ Feel free to reach out to me if you have any questions or collaboration opportun
 
 ## 🔬Research Experiences
 
-1. The candidate played a key role in the Urban Science SRT project by constructing a city traffic monitoring system, focusing on network establishment, data scraping and storage. They matched road network structures, utilized Python multithreading for data scraping, stored data in MySQL, and applied reinforcement learning for route optimization. They also co-authored a paper accepted by CIKM 2023.
+1. Urban Science SRT project under the guidance of professor Li Yong from the Department of Electronics, which established a system for constructing, crawling, and storing urban traffic conditions, and utilized reinforcement learning to plan travel routes. The paper[https://dl.acm.org/doi/10.1145/3583780.3614732] has been accepted by CIKM 2023. (2021-2022)
 
-2. In a medical engineering project, the candidate developed a simulation model for liver tumor thermal ablation, annotated tumor data, and trained a Unet model for automated preoperative segmentation of liver tumors.
+2. Liver tumor thermal ablation project under the guidance of professor Ying Kui, which proposed a liver tumor segmnetation model. (2022-2023)
 
-3. As a visiting scholar, the candidate researched NLP models to enhance hypothesis generation, fine-tuned the LLaMA model for improved scientific reasoning, and is preparing to submit their findings to the Nips Workshop.
+3. AI4Science project under the guidance of professor Zhou Bowen, which focus on enhance large language model's scientific reasoning ability. The paper[https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/Instruction] has been accepted by NeurIPS 2023 Workshop on Instruction Tuning and Instruction Following (2023)
 
-4. The candidate conducted fetal MRI image processing research, creating a processing pipeline for fetal brain analysis, adapting Freesurfer for fetal images, and contributing to a paper accepted by RSNA. The project was highly rated in Tsinghua University's Academic Promotion Program 2023.
+4. MRI morphology analysis project under the guidance of professor Tian QiYuan, which focus on slice-to-volume reconstruction, AI tissue segmentation, and statistical analysis. The paper has been accepted by RSNA2023.
 
 
