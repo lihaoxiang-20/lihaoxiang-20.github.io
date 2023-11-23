@@ -17,10 +17,12 @@ Feel free to reach out to me if you have any questions or collaboration opportun
 We established a system for constructing, crawling, and storing urban traffic conditions, and utilized reinforcement learning to plan travel routes. The [paper](https://dl.acm.org/doi/10.1145/3583780.3614732) has been accepted by CIKM2023. (2021-2022)
 
 ### Liver tumor thermal ablation project (Advisor: [Prof. Kui Ying](https://www.ep.tsinghua.edu.cn/info/1166/2333.htm))
- under the guidance of professor Ying Kui, which proposed a liver tumor segmnetation model. (2022-2023)
+We collected liver tumor data from proposed a liver tumor segmnetation model. (2022-2023)
 
-3. AI4Science project under the guidance of professor Zhou Bowen, which focus on enhance large language model's scientific reasoning ability. The [paper](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/Instruction) has been accepted by NeurIPS 2023 Workshop on Instruction Tuning and Instruction Following (2023)
+### AI4Science project (Advisor: [Prof. Bowen Zhou](http://web.ee.tsinghua.edu.cn/zhoubowen/en/index.htm))
+We enhanced large language model's scientific reasoning ability by self-instruction training. The [paper](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/Instruction) has been accepted by NeurIPS 2023 Workshop on Instruction Tuning and Instruction Following (2023)
 
-4. MRI morphology analysis project under the guidance of professor Tian QiYuan, which focus on slice-to-volume reconstruction, AI tissue segmentation, and statistical analysis. The paper has been accepted by RSNA2023. (2023)
+### MRI morphology analysis project (Advisor: [Prof. Qiyuan Tian](https://birthlab.github.io/pi.html))
+We proposed a pipeline consisting of slice-to-volume reconstruction, AI tissue segmentation, and statistical analysis. The paper has been accepted by RSNA2023. (2023)
 
 

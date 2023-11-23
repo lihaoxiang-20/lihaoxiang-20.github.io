@@ -1,12 +1,12 @@
 main:
-  - title: "News"
-    url: /teaching/  
+  # - title: "News"
+  #   url: /teaching/  
     
   - title: "Publications"
     url: /cv/   
     
-  - title: "Activities"
-    url: /portfolio/
+  # - title: "Activities"
+  #   url: /portfolio/
     
-  - title: "Honors and Awards"
-    url: /markdown/
+  # - title: "Honors and Awards"
+  #   url: /markdown/
