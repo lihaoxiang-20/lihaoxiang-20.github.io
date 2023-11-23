@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Haoxiang Li's Persional Website"
+title                    : "Persional Website"
 title_separator          : "-"
 name                     : &name "Li haoxiang"
 description              : &description "personal description"
