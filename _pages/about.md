@@ -7,24 +7,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## About Me
-
-I am a passionate software developer with a strong interest in artificial intelligence and machine learning. I love exploring new technologies and finding innovative solutions to complex problems.
-
-You can find more information about me on my [personal website](https://example.com).
-
+## 💯About Me
+I am a senoir student in Tsinghua University. My academic journey has been rigorously rooted in the fields of medical imaging and artificial intelligence, with specific coursework in Medical Image Processing, Medical Imaging Physics, Deep Learning, Pattern Recognition, Machine Learning, and an introduction to AI. My current research under the guidance of Assistant Professor Qiyuan Tian focuses on the reconstruction and segmentation of high-resolution fetal brain MRI images.
 Feel free to reach out to me if you have any questions or collaboration opportunities! 😊
 
-My name is Haoxiang Li, and I was born on January 12th, 2003. I am currently completing my Bachelor of Engineering in the Department of Biomedical Engineering at Tsinghua University in China. My academic journey has been rigorously rooted in the fields of medical imaging and artificial intelligence, with specific coursework in Medical Image Processing, Medical Imaging Physics, Deep Learning, Pattern Recognition, Machine Learning, and an introduction to AI.
+## 🔬Research Experiences
 
-I am proficient in several programming languages and tools, including MATLAB, Python, PyTorch, TensorFlow, Keras, C/C++, Verilog, git, ROS, and MySQL, which have been instrumental in my research projects.
+1. The candidate played a key role in the Urban Science SRT project by constructing a city traffic monitoring system, focusing on network establishment, data scraping and storage. They matched road network structures, utilized Python multithreading for data scraping, stored data in MySQL, and applied reinforcement learning for route optimization. They also co-authored a paper accepted by CIKM 2023.
 
-My current research under the guidance of Assistant Professor Qiyuan Tian focuses on the reconstruction and segmentation of high-resolution fetal brain MRI images. We are exploring the correlation between the volume of different brain regions and gestational age. Concurrently, I am also involved in a project on liver tumor MRI segmentation with Associate Professor Kui Ying, where I am applying deep learning models like U-net to automate segmentation processes.
+2. In a medical engineering project, the candidate developed a simulation model for liver tumor thermal ablation, annotated tumor data, and trained a Unet model for automated preoperative segmentation of liver tumors.
 
-Previously, I worked on a project about protein embedding learning based on the CLIP architecture with Professor Bowen Zhou, where I replicated the results of Onto-protein and constructed a CLIP model to study protein sequences' relationship with GO text. Additionally, I was part of a team developing an urban traffic path planning system using AI, under the guidance of Associate Professor Yong Li.
+3. As a visiting scholar, the candidate researched NLP models to enhance hypothesis generation, fine-tuned the LLaMA model for improved scientific reasoning, and is preparing to submit their findings to the Nips Workshop.
 
-I have also contributed to the scientific community with pending publications in the RSNA Annual Meeting and have a paper under review for the IJCAI 2023 conference.
+4. The candidate conducted fetal MRI image processing research, creating a processing pipeline for fetal brain analysis, adapting Freesurfer for fetal images, and contributing to a paper accepted by RSNA. The project was highly rated in Tsinghua University's Academic Promotion Program 2023.
 
-Beyond academia, I have demonstrated leadership and collaborative skills as a participant in writing the THUAI5 competition website for both the Physical Education Department of Medical College and the Software Department of Electronic Engineering. My efforts in social work have been recognized with the Social Work Excellence Award.
 
-I am eager to apply my skills and knowledge in real-world applications and am always on the lookout for new challenges and opportunities to grow in the biomedical engineering and AI fields.
